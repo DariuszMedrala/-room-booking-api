@@ -5,9 +5,6 @@
 REST API do rezerwacji sal z uwierzytelnianiem JWT, kontrolą dostępu opartą na rolach,
 dokumentacją Swagger, testami oraz uruchomieniem przez Docker Compose.
 
-> Po utworzeniu repozytorium zamień `OWNER/REPO` w adresie badge'a powyżej na swoją nazwę
-> użytkownika i repozytorium (np. `bg366/room-booking-api`).
-
 ## Uruchomienie od zera (Docker)
 
 Wymagania: zainstalowany Docker i Docker Compose.
