@@ -1,6 +1,6 @@
 # Room Booking API
 
-![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/DariuszMedrala/-room-booking-api/actions/workflows/ci.yml/badge.svg)
 
 REST API do rezerwacji sal z uwierzytelnianiem JWT, kontrolą dostępu opartą na rolach,
 dokumentacją Swagger, testami oraz uruchomieniem przez Docker Compose.
